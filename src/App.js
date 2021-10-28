@@ -35,6 +35,7 @@ unsuscribeFromAuth = null
       }
 
       this.setState({ currentUser: userAuth });
+      
     });
  }
   
